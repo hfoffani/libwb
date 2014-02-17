@@ -59,3 +59,7 @@ add_mp_executable(MP3 skel/mp3.cu)
 add_mp_executable(MP4 skel/mp4.cu)
 add_mp_executable(MP5 skel/mp5.cu)
 add_mp_executable(MP6 skel/mp6.cu)
+add_mp_executable(MP7 skel/mp7.cu)
+add_mp_executable(MP8 skel/mp8.cu)
+add_mp_executable(MP9 skel/mp9.cu)
+
